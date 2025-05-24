@@ -1,3 +1,6 @@
+## Current Focus
+
+```python
 class Developer:
     def __init__(self):
         self.name = "Sahil Roy"
@@ -12,3 +15,4 @@ class Developer:
 
 me = Developer()
 me.say_hi()
+```

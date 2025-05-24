@@ -11,7 +11,7 @@ class Developer:
         self.learning = ["Machine Learning", "DevOps", "Microservices"]
     
     def say_hi(self):
-        print("Thanks for dropping by!")
+        print("Toh job pakka samjhu?!")
 
 me = Developer()
 me.say_hi()

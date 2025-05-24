@@ -10,6 +10,8 @@ class Developer:
         self.location = "New Delhi, India"
         self.languages = ["Python", "JavaScript", "C++", "SQL"]
         self.learning = ["Machine Learning", "DevOps", "Microservices"]
+        self.debugging_level = "Sherlock Holmes of Stack Traces"
+        self.imposter_syndrome = True
     
     def say_hi(self):
         print("Toh job pakka samjhu?!")

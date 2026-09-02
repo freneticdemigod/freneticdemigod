@@ -1,5 +1,8 @@
 ## thora mere baare main jaan le ?!
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/jon-hamm-meditating-on-fire-lxxr0eptlkp8f4i2.gif">
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/jon-hamm-meditating-on-fire-lxxr0eptlkp8f4i2.gif">
+</div>
 
 ```python
 class Developer:
@@ -18,4 +21,3 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```

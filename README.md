@@ -1,7 +1,11 @@
 ## thora mere baare main jaan le ?!
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/jon-hamm-meditating-on-fire-lxxr0eptlkp8f4i2.gif">
+  <img
+    alt="Coding"
+    width="300"
+    src="https://gifdb.com/images/thumbnail/jon-hamm-meditating-on-fire-lxxr0eptlkp8f4i2.gif"
+  >
 </div>
 
 ```python
